@@ -22,7 +22,7 @@ Swagger: For API documentation (optional).
 1. Clone the Repository
 bash
 Copy
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vkeychaudhari/JwtApiExample.git)
+git clone https://github.com/vkeychaudhari/JwtApiExample.git
 cd your-repo-name
 
 2. Configure JWT Settings
